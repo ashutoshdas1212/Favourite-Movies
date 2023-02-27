@@ -32,7 +32,6 @@ https://user-images.githubusercontent.com/70796875/221602490-15893fc2-81e7-4fe7-
 
 ## How to Install
 
-> Run this app by directly opening the [Link here](https://chirag482.github.io/movies-app/) or follow steps mentioned below to set up on local directory.
 
 1. Clone this project
 2. Start by installing _npm_ **if you don't have it already**
