@@ -2,7 +2,7 @@
 
 A Movies listing app including search and favourite/unfavourite functionality
 
-> View this app [here..](https://chirag482.github.io/movies-app/)
+> 
 
 > feel free to jump in to contribute
 
@@ -10,7 +10,10 @@ A Movies listing app including search and favourite/unfavourite functionality
 
 
 
-https://user-images.githubusercontent.com/65730103/154234465-b12b353c-f4bf-4abe-b17e-15468058a16f.mp4
+https://user-images.githubusercontent.com/70796875/221602490-15893fc2-81e7-4fe7-90c4-02cd45f2ff34.mp4
+
+
+
 
 
 
@@ -29,7 +32,6 @@ https://user-images.githubusercontent.com/65730103/154234465-b12b353c-f4bf-4abe-
 
 ## How to Install
 
-> Run this app by directly opening the [Link here](https://chirag482.github.io/movies-app/) or follow steps mentioned below to set up on local directory.
 
 1. Clone this project
 2. Start by installing _npm_ **if you don't have it already**
